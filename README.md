@@ -24,3 +24,19 @@ ___
 	 
  </div>
 
+---
+
+### 🔥 My stats
+
+<a href="https://github.com/ar9entummm/">
+	<img src="https://github-readme-stats.vercel.app/api?username=ar9entummm&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/ar9entummm">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar9entummm&theme=react&hide_border=true">
+</a>
+
+<a href="https://github.com/ar9entummm">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar9entummm&theme=react&show_icons=true&hide_border=true&layout=compact">
+</a>
+
