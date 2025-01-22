@@ -1,11 +1,11 @@
 <div id="header" align="center">
 	<a href="https://skinmc.net/achievement" target="_blank"><img src="https://skinmc.net/achievement/7/ar9entu.m/Software+Developer" alt="Minecraft Achievement" width="500" /></div>
 
-<div>
-	<h2 color="#ff00ff">Hello, world! I am Software {Developer}!</h2>
-</div>
+### Hello, world! I am Software {Developer}!
 
-### Languages and Frameworks
+___
+
+### 🛠️ Languages and Frameworks
 <div>
 	<img src="https://img.shields.io/badge/C-afbccd?style=for-the-badge&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CPP-17437b?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -23,3 +23,4 @@
 	 <img src="https://img.shields.io/badge/Mongo DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 	 
  </div>
+
